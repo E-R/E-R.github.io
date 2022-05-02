@@ -6,6 +6,7 @@ nav_order: 4
 ---
 
 ### Honors and Awards
+- Travel fellowship award, Research in Computational Molecular Biology (RECOMB), 2022
 - Charles J. Epstein Trainee Award, The American Society of Human Genetics (ASHG): semifinalist (among top 16 submissions out of over 2,000), 2021.
 - Life Sciences Research Foundation (LSRF) Fellowship: finalist (∼6% of applications), 2021.
 - Campus-wide nominee for the Schmidt Science Fellows Program, University of California Los Angeles (selected among 5 PhD students across the Natural Sciences), 2019.
