@@ -46,6 +46,10 @@ Alvarez M\*, **Rahmani E\***, Jew B, Garske KM, Miao Z, Benhammou JN, Ye CJ, Pis
 
 ### Selected Conference Contributions:
 
+**Rahmani E\***, Chen Z\*, Halperin E. A unified model for cell-type resolution genomics from heterogeneous omics data. (* - joint first authorship) <span style="color:DarkBlue">*RECOMB-Genetics*</span>. 2023.
+
+Gorla A, Sankararaman S, Burchard E, Flint J, Zaitlen N, **Rahmani E**. Phenotypic subtyping via contrastive learning. <span style="color:DarkBlue">*RECOMB*</span>. 2023.
+
 **Rahmani E**, Jordan MI, Yosef N. Identifying systematic variation at the single-cell level by leveraging low-resolution population-level data. <span style="color:DarkBlue">*RECOMB*</span>. 2022.
 
 **Rahmani E**, Halperin E, Jordan MI, Yosef N. Identifying systematic variation in gene-gene interactions at the single-cell level. <span style="color:DarkBlue">*ICML CompBio workshop*</span>. 2021.
